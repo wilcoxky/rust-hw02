@@ -1,4 +1,4 @@
-#![feature(plugin)]
-#![plugin(clippy)]
+pub mod first;
+mod test;
 
-mod first;
+
